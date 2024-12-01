@@ -52,7 +52,5 @@ public class Car extends Vehicle {
         return this.currentGear;
     }
 
-    public int getSeats() {
-        return 4;
-    }
+     
 }
