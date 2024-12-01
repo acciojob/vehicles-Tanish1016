@@ -8,7 +8,7 @@ public class Car extends Vehicle {
     private boolean isManual;
     private int currentGear = 1;
 
-    public Car(String name, int wheels, int doors, int gears,  boolean isManual, String type  ) {
+    public Car(String name, int wheels, int doors, int gears,  boolean isManual, String type) {
         super(name);
         this.wheels = wheels;
         this.doors = doors;
